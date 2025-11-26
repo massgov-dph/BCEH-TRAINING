@@ -2,10 +2,10 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "5fBCTO5JilC":
+      case "5xYzZ14Zw7f":
         Script1();
         break;
-      case "65j9ocHPAPo":
+      case "6drxi81bpIj":
         Script2();
         break;
   }
@@ -29,10 +29,10 @@ var slideHeight = player.slideHeight;
 window.Script1 = function()
 {
   player.once(() => {
-const target = object('5e4w3t7kJ6Z');
+const target = object('6DRRH6X1TR5');
 const duration = 750;
 const easing = 'ease-out';
-const id = '6Go45vBvXEt';
+const id = '6U79ZOKXldo';
 const pulseAmount = 0.07;
 const delay = 0;
 addToTimeline(
@@ -52,10 +52,10 @@ target.animate(
 window.Script2 = function()
 {
   player.once(() => {
-const target = object('6DRRH6X1TR5');
+const target = object('5e4w3t7kJ6Z');
 const duration = 750;
 const easing = 'ease-out';
-const id = '6U79ZOKXldo';
+const id = '6Go45vBvXEt';
 const pulseAmount = 0.07;
 const delay = 0;
 addToTimeline(
